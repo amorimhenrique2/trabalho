@@ -58,4 +58,4 @@ summary(dados$metragem)
 summary(dados$idade)
 summary(dados$itens_embutidos)
 summary(dados$imposto_anual)
-
+summary(dados)
