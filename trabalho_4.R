@@ -59,3 +59,12 @@ summary(dados$idade)
 summary(dados$itens_embutidos)
 summary(dados$imposto_anual)
 summary(dados)
+
+#graficos 
+hist(dados$preco)
+hist(dados$metragem)
+hist(dados$idade)
+hist(dados$itens_embutidos)
+hist(dados$imposto_anual)
+
+
